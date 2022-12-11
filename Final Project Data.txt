@@ -1,4 +1,4 @@
-Word	_-type	syllable	V_Quality	ID	Iteration	stress_level	stress_type	quality	Vowel_Duration_(ms)
+Word	type	syllable	V_Quality	ID	Iteration	stress_level	stress_type	quality	Vowel_Duration_(ms)
 aazvaa_	CVVC	vaa_	aa	MS0	1	phrase	secondary	1	145.7044433
 aazvaa_	CVVC	vaa_	aa	MS0	1	word	secondary	1	121.553
 bazvaa_	CVVC	vaa_	aa	MS0	1	phrase	primary	1	125.7873378
